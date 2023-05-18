@@ -1,3 +1,6 @@
 [submodule "Books.Core"]
 	path = Books.Core
 	url = https://github.com/NaveeenSemwal/Books.Core
+[submodule "Books.Data"]
+	path = Books.Data
+	url = https://github.com/NaveeenSemwal/Books.Data.git

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Book.Core\Books.Core.csproj" />
+    <ProjectReference Include="..\..\Books.Core\src\Books.Core\Books.Core.csproj" />
     <ProjectReference Include="..\Books.Business.Interfaces\Books.Business.Interfaces.csproj" />
     <ProjectReference Include="..\Books.Data.Interfaces\Books.Data.Interfaces.csproj" />
     <ProjectReference Include="..\Books.Data.Model\Books.Data.Model.csproj" />
