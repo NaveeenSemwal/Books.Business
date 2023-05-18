@@ -1,0 +1,3 @@
+[submodule "Books.Core"]
+	path = Books.Core
+	url = https://github.com/NaveeenSemwal/Books.Core
